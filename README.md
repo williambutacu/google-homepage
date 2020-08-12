@@ -1,0 +1,1 @@
+I am trying to learn new skills to improve myself

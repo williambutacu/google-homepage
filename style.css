@@ -1,0 +1,48 @@
+body{
+    font-family: arial,sans-serif;
+}
+
+li.lol{
+    float:right;
+    padding: 20px 10px 0px 10px;
+    font-size:0.9rem;
+    
+}
+.content{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:400px;
+    flex-direction: column;
+    width:auto;
+}
+
+input{
+  border:  1px solid #dfe1e5;
+  width:528px;
+  border-radius: 24px;
+  height: 44px;
+  margin-top:25px;
+ 
+}
+
+li.fix{
+    padding-top:25px;
+}
+.whole{
+    display:flex;
+    flex-direction: column;
+}
+
+li{
+    float:left;
+    padding: 20px 10px 0px 10px;
+    font-size:0.9rem;
+    
+}
+
+.footer{
+    position: fixed;
+    bottom: 30px;
+    width: 100%;
+}
